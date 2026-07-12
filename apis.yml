@@ -26,6 +26,8 @@ apis:
     description: >-
       The Umpqua Holdings API provides access to platform services and data for enterprise integration and automation.
 common:
+  - type: DomainSecurity
+    url: security/umpqua-holdings-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/umpqua-bank
   - type: Website
